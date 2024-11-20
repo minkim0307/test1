@@ -8,3 +8,5 @@ dddgir
 테스트
 
 branch copy1 생성 후 수정
+
+test2파일 필요없어..
